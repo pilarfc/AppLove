@@ -16,7 +16,6 @@ for (var i = 0; i < 9; i++){
 function desplegar(){
  modal.style.display = "block";
  modalImg.src = this.src;
- captionText.innerHTML = this.alt;
 }
 
 for (var i = 0; i < 9; i++){
